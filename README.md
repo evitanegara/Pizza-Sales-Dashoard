@@ -11,10 +11,10 @@ The Pizza Sales Dashboard project aims to analyze sales data to uncover performa
   - Key dimensions divided by : order_date, pizza_name_id, pizza_category, pizza_size
   - Key metrics: quantity, unit_price, total_price
 2. Data Cleaning in SQL Server
-   - Null Checks: No null values found across critical fields
-   - Duplicate Removal: Validated uniqueness of each pizza per order
-   - Categorical Standardization: Unified pizza_size from short codes (S, M, L, XL) to full form (Small, Medium, Large, etc.) Ensured consistent casing and formatting in pizza_category
-   - Outlier Detection: Checked for outliers in pricing (unit_price), all values were within logical range
+  - Null Checks: No null values found across critical fields
+  - Duplicate Removal: Validated uniqueness of each pizza per order
+  - Categorical Standardization: Unified pizza_size from short codes (S, M, L, XL) to full form (Small, Medium, Large, etc.) Ensured consistent casing and formatting in pizza_category
+  - Outlier Detection: Checked for outliers in pricing (unit_price), all values were within logical range
    All SQL queries used for cleaning, aggregation, and KPI calculations are provided in a separate script file.
 
 #  KPI and Business Objectives

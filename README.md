@@ -30,6 +30,11 @@ The Pizza Sales Dashboard project aims to analyze sales data to uncover performa
 - Visualize sales distribution by hour, day,  weekday and weekend
 - Implement a dynamic calendar heatmap for granular trend analysis
 
+# Visualizations
+![image](https://github.com/user-attachments/assets/6a01b1e9-e1aa-4b9e-b7c4-5d3223139c4b)
+![image](https://github.com/user-attachments/assets/a35ae4e0-4478-4ed4-a66a-6266f351b5f0)
+![image](https://github.com/user-attachments/assets/fff1be5b-bf35-44eb-b92a-b211313a84c5)
+
 # Executive Summary & Insights
 1. Monthly Sales Performance
 - The monthly trend shows fluctuations in customer orders throughout the year 2015, with visible peaks and troughs that reflect changes in customer demand, seasonal influences, and potentially marketing or operational activity.

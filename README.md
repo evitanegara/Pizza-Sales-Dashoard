@@ -42,7 +42,7 @@ The Pizza Sales Dashboard project aims to analyze sales data to uncover performa
   - Classic pizza is the best-seller, with 15,000 units sold—outperforming all other categories.
   - Supreme and Veggie pizzas follow closely, each with 12,000 units sold, indicating strong demand for both premium and vegetarian options.
   - Chicken pizza ranks lowest, with 11,000 units sold, though it still maintains solid customer interest.
--Sales by Category 
+- Sales by Category 
   - Classic pizzas generated the highest revenue at $220K, underscoring their strong commercial appeal and broad customer demand.
   - Followed closely by Supreme pizzas, which brought in approximately $208K in revenue—despite a lower sales volume.
   - Meanwhile, Chicken ($196K) and Veggie ($194K) categories maintained steady revenue performance, these categories also present opportunities for targeted growth through pricing strategies, bundling, or promotional campaigns.

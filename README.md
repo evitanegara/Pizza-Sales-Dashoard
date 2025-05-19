@@ -80,7 +80,7 @@ The Pizza Sales Dashboard project aims to analyze sales data to uncover performa
 - Goal: Capitalize on increased weekend traffic
 - Action: Launch weekend-exclusive family bundles that offer value-for-money meal deals tailored to group sizes.
 - Tactic: Promote deals using geo-targeted mobile ads and in-store signage.
-- 
+  
 # Conlusion 
 This project highlights how data-driven analysis can uncover valuable business insights. By combining SQL for data cleaning and Power BI for visualization, this project identified key trends in sales performance, customer behavior, and product preferences. The findings reveal strong performance from Classic and Large pizzas, seasonal sales fluctuations, and peak order times during lunch and dinner hours. These insights support targeted strategies to optimize marketing, promotions, and operations. Overall, this dashboard enables smarter decision-making and demonstrates the practical impact of data analytics in a retail setting.
 

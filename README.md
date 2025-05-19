@@ -15,7 +15,7 @@ The Pizza Sales Dashboard project aims to analyze sales data to uncover performa
   - Duplicate Removal: Validated uniqueness of each pizza per order
   - Categorical Standardization: Unified pizza_size from short codes (S, M, L, XL) to full form (Small, Medium, Large, etc.) Ensured consistent casing and formatting in pizza_category
   - Outlier Detection: Checked for outliers in pricing (unit_price), all values were within logical range
-   All SQL queries used for cleaning, aggregation, and KPI calculations are provided in a separate script file.
+   - All SQL queries used for cleaning, aggregation, and KPI calculations are provided in a separate script file. Click here https://drive.google.com/file/d/19FBEyBPYv54wlq3db06rU1sfi1bs_ptk/view?usp=sharing
 
 #  KPI and Business Objectives
 1. Overall Metrics

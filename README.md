@@ -30,4 +30,18 @@ The Pizza Sales Dashboard project aims to analyze sales data to uncover performa
 - Visualize sales distribution by hour, day,  weekday and weekend
 - Implement a dynamic calendar heatmap for granular trend analysis
 
+# Executive Summary & Insights
+1. Monthly Sales Performance
+- Sales followed predictable seasonal trends. July was the peak month with over 1,935 orders, while February and September underperformed.
+2. Category and Size Analysis
+- Top-Selling Category: Classic (15K pizzas)
+- High Revenue Sizes: Large (46% of total revenue), followed by Medium and Small
+- Underperformer: Double Extra Large XXL had minimal sales despite higher price point
+3.  Month-over-Month Growth by Category
+- The total sales fluctuated throughout the months, with the highest growth in November 2015 (+9.95%)
+- Lowest growth occurred in February 2015 (-6.64%) and December 2015 (-8.09%).
+- Classic Pizza is consistently one of the top contributors in total sales. Strong growth in July (+8.97%) and November (+6.76%), but a dip in June (-7.14%).
+4. Temporal Patterns
+- Hourly Sales: 12 PM (Noon) is the busiest hour, generating the highest total sales. Followed closely by 1 PM and 2 PM, which together highlight the lunch-time peak (12 PM–2 PM). Another strong peak is observed around 6 PM to 8 PM, clearly corresponding to dinner-time demand.
+- Weekday sales repeatedly dominate, generally comprising 70% or more of total pizza revenue.
   

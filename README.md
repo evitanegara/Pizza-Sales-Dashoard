@@ -32,7 +32,11 @@ The Pizza Sales Dashboard project aims to analyze sales data to uncover performa
 
 # Executive Summary & Insights
 1. Monthly Sales Performance
-- Sales followed predictable seasonal trends. July was the peak month with over 1,935 orders, while February and September underperformed.
+- The monthly trend shows fluctuations in customer orders throughout the year 2015, with visible peaks and troughs that reflect changes in customer demand, seasonal influences, and potentially marketing or operational activity.
+- July (1,935 orders) emerged as the highest-performing month, likely driven by summer holidays, family gatherings, or effective marketing campaigns.
+- This was followed closely by May (1,853 orders), January (1,845), and August (1,841)—indicating strong customer engagement in the first half of the year and during late summer.
+- In contrast, October (1,646) and September (1,661) marked the lowest points in order volume. This downturn may be linked to post-summer spending slowdowns, back-to-school season, or reduced promotional activity.
+- In addition, there was a sharp decline of 180 orders from August to September, representing a significant drop in demand that warrants further investigation.
 2. Category and Size Analysis
 - Top-Selling Category: Classic (15K pizzas)
 - High Revenue Sizes: Large (46% of total revenue), followed by Medium and Small

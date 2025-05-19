@@ -7,9 +7,9 @@ The Pizza Sales Dashboard project aims to analyze sales data to uncover performa
 
 #  Key Data Preparation Steps (SQL-Based)
 1. Understanding the Data Structure
-  This data contains 48,620 rows and 12 columns.
-  Key dimensions divided by : order_date, pizza_name_id, pizza_category, pizza_size
-  Key metrics: quantity, unit_price, total_price
+  - This data contains 48,620 rows and 12 columns.
+  - Key dimensions divided by : order_date, pizza_name_id, pizza_category, pizza_size
+  - Key metrics: quantity, unit_price, total_price
 2. Data Cleaning in SQL Server
    - Null Checks: No null values found across critical fields
    - Duplicate Removal: Validated uniqueness of each pizza per order

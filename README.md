@@ -38,19 +38,18 @@ The Pizza Sales Dashboard project aims to analyze sales data to uncover performa
 - In contrast, October (1,646) and September (1,661) marked the lowest points in order volume. This downturn may be linked to post-summer spending slowdowns, back-to-school season, or reduced promotional activity.
 - In addition, there was a sharp decline of 180 orders from August to September, representing a significant drop in demand that warrants further investigation.
 2. Category and Size Analysis
-2.1 Pizza Sold by Category
-- Classic pizza is the best-seller, with 15,000 units sold—outperforming all other categories.
-- Supreme and Veggie pizzas follow closely, each with 12,000 units sold, indicating strong demand for both premium and vegetarian options.
-- Chicken pizza ranks lowest, with 11,000 units sold, though it still maintains solid customer interest.
-  Classic pizzas generated the highest revenue at $220K, underscoring their strong commercial appeal and broad customer demand.
-2.2 Sales by Category 
-- Classic pizzas generated the highest revenue at $220K, underscoring their strong commercial appeal and broad customer demand.
-- Followed closely by Supreme pizzas, which brought in approximately $208K in revenue—despite a lower sales volume.
-- Meanwhile, Chicken ($196K) and Veggie ($194K) categories maintained steady revenue performance, these categories also present opportunities for targeted growth through pricing strategies, bundling, or promotional campaigns.
-2.3 Sales by Pizza Sizes
-- Large pizzas dominated sales performance, generating $375K and contributing to 45.89% of total revenue.
-- Medium-sized pizzas followed with $249K (30.49%), while Small pizzas brought in $178K (21.77%), reflecting consistent demand across standard size offerings.
-- In contrast, Extra Large ($14K) and Double Extra Large ($1K) pizzas made minimal contributions to overall revenue. This suggests either limited market demand or a lack of visibility and promotional focus, indicating potential areas for product repositioning or strategic marketing efforts.
+- Pizza Sold by Category
+  - Classic pizza is the best-seller, with 15,000 units sold—outperforming all other categories.
+  - Supreme and Veggie pizzas follow closely, each with 12,000 units sold, indicating strong demand for both premium and vegetarian options.
+  - Chicken pizza ranks lowest, with 11,000 units sold, though it still maintains solid customer interest.
+-Sales by Category 
+  - Classic pizzas generated the highest revenue at $220K, underscoring their strong commercial appeal and broad customer demand.
+  - Followed closely by Supreme pizzas, which brought in approximately $208K in revenue—despite a lower sales volume.
+  - Meanwhile, Chicken ($196K) and Veggie ($194K) categories maintained steady revenue performance, these categories also present opportunities for targeted growth through pricing strategies, bundling, or promotional campaigns.
+- Sales by Pizza Sizes
+  - Large pizzas dominated sales performance, generating $375K and contributing to 45.89% of total revenue.
+  - Medium-sized pizzas followed with $249K (30.49%), while Small pizzas brought in $178K (21.77%), reflecting consistent demand across standard size offerings.
+  - In contrast, Extra Large ($14K) and Double Extra Large ($1K) pizzas made minimal contributions to overall revenue. This suggests either limited market demand or a lack of visibility and promotional focus, indicating potential areas for product repositioning or strategic marketing efforts.
 3.  Month-over-Month Growth by Category
 - The total sales fluctuated throughout the months, with the highest growth in November 2015 (+9.95%)
 - Lowest growth occurred in February 2015 (-6.64%) and December 2015 (-8.09%).

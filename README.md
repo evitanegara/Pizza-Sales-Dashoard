@@ -42,6 +42,13 @@ Power BI was used for data modeling, KPI analysis, and interactive dashboard cre
 
 3. **Dashboard Development:** Built interactive dashboard in Power BI with slicers, visuals, and metrics.
 
+## Visualization 
+![image](https://github.com/user-attachments/assets/e11ba454-2211-4119-acd7-6f1de5b720f8)
+![image](https://github.com/user-attachments/assets/0da95cfc-2b48-4078-a497-f188dd4ff6e5)
+![image](https://github.com/user-attachments/assets/d0b343d8-829c-417e-a404-0c6f1a4bde6b)
+
+
+
 ## Executive Summary
 
 The pizza sales data from 2015 reveals total revenue of $818K generated from over 21,000 orders and 50,000 pizzas sold, with an average of 2.32 pizzas per order. Classic and Supreme pizzas dominate category-level sales, while Large and Medium sizes are the most preferred among customers.
@@ -59,6 +66,9 @@ Sales peaked in July, driven by strong performance in the Classic ($19.7K) and S
 - Other high-performing months include May (1,853), January (1,845), and August (1,841), indicating steady engagement during early-year and summer periods.
 - A sharp decline of nearly 200 orders from August to September signals a potential demand contraction that warrants investigation.
 - Despite the variation in order volume, monthly revenue remains relatively stable (ranging from $64K to $73K).
+ ![image](https://github.com/user-attachments/assets/99c0ce88-d73b-4740-b45a-188173fce05f)
+
+  
 
 ### Key Product Performance by Category and Size
 

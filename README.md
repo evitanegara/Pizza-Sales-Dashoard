@@ -27,20 +27,20 @@ Power BI was used for data modeling, KPI analysis, and interactive dashboard cre
 
 ## Key Data Preparation Steps (SQL-Based)
 
-1. **Understanding the Data Structure**  
+1. Understanding the Data Structure  
    - Dataset consists of 48,620 rows and 12 columns
 
-2. **Data Cleaning in SQL Server**
-   - **Null Checks:** Verified no nulls in critical fields  
-   - **Duplicate Removal:** Ensured unique pizza entries per order  
-   - **Categorical Standardization:**  
+2. Data Cleaning in SQL Server
+   - Null Checks: Verified no nulls in critical fields  
+   - Duplicate Removal: Ensured unique pizza entries per order  
+   - Categorical Standardization:  
      - Converted size codes (S, M, L, XL) to full text (Small, Medium, Large, Extra Large)  
      - Standardized casing in pizza_category  
-   - **Outlier Detection:** Confirmed all unit_price values were within logical range  
+   - Outlier Detection: Confirmed all unit_price values were within logical range  
 
 👉 [SQL Data Prep Script](https://drive.google.com/file/d/19FBEyBPYv54wlq3db06rU1sfi1bs_ptk/view?usp=sharing)
 
-3. **Dashboard Development:** Built interactive dashboard in Power BI with slicers, visuals, and metrics.
+3. Dashboard Development: Built interactive dashboard in Power BI with slicers, visuals, and metrics.
 
 ## Visualization 
 <p align="center">
@@ -159,29 +159,29 @@ Sales peaked in July, driven by strong performance in the Classic ($19.7K) and S
 
 ### Sales Trend Optimization
 
-- **Seasonal Promotions:** Reinforce marketing efforts during low-performing months (e.g., September–October) by:
+- Seasonal Promotions: Reinforce marketing efforts during low-performing months (e.g., September–October) by:
   - Launching targeted ads for past buyers and lookalike audiences
   - Collaborating with food influencers on Instagram, TikTok, and YouTube
   - Running email marketing campaigns with festive themes and exclusive discounts
   - Leveraging seasonal messaging to create urgency and boost interest
-- **Flash Deals During Peak Hours:** Capitalize on demand spikes at 13:00 (lunch) and 17:00–19:00 (dinner) with time-limited discounts or combo deals.
-- **Friday-Focused Offers:** Launch new products or value bundles on Fridays—the top sales day—to maximize visibility and conversion.
+- Flash Deals During Peak Hours: Capitalize on demand spikes at 13:00 (lunch) and 17:00–19:00 (dinner) with time-limited discounts or combo deals.
+- Friday-Focused Offers: Launch new products or value bundles on Fridays—the top sales day—to maximize visibility and conversion.
 
 ### Menu & Product Strategy
 
-- **Bundle High-Demand Sizes:** Promote Large and Medium pizzas in family combos or "Buy One Get One" campaigns.
-- **Rationalize Oversized Options:** Review performance of Extra Large and Double Extra Large pizzas; reduce stock or repackage for parties.
-- **Promote Veggie Options:** Support the growing Veggie segment through health-conscious or eco-themed campaigns like "Meatless Mondays."
+- Bundle High-Demand Sizes: Promote Large and Medium pizzas in family combos or "Buy One Get One" campaigns.
+- Rationalize Oversized Options: Review performance of Extra Large and Double Extra Large pizzas; reduce stock or repackage for parties.
+- Promote Veggie Options: Support the growing Veggie segment through health-conscious or eco-themed campaigns like "Meatless Mondays."
 
 ### Customer Engagement
 
-- **Launch Weekly Offers:** Introduce midweek promotions (e.g., "Two-Topping Tuesdays" or free drink with pizza) to boost slow weekdays.
-- **Loyalty Programs:** Encourage repeat orders with pizza points, tier-based discounts, or birthday rewards.
+- Launch Weekly Offers: Introduce midweek promotions (e.g., "Two-Topping Tuesdays" or free drink with pizza) to boost slow weekdays.
+- Loyalty Programs: Encourage repeat orders with pizza points, tier-based discounts, or birthday rewards.
 
 ### Operational Planning
 
-- **Improve Inventory Forecasting:** Use daily/hourly sales patterns to plan dough and ingredient prep, minimizing overstock and waste.
-- **Optimize Labor Scheduling:** Align staff shifts with peak demand hours to ensure fast service and reduce downtime.
+- Improve Inventory Forecasting: Use daily/hourly sales patterns to plan dough and ingredient prep, minimizing overstock and waste.
+- Optimize Labor Scheduling: Align staff shifts with peak demand hours to ensure fast service and reduce downtime.
 
 # Contact
 For any questions or inquiries, please contact evitanegara@gmail.com
